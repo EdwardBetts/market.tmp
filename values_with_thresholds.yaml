@@ -1,0 +1,10 @@
+thresholds:
+    public-utility: 1.75
+    railroad: 2
+    myrailroad: 2.8
+    industrial: 3
+businesses:
+    - {name: 'company A', type: 'industrial', income: {gross: 37598, net: 26696, operating: 35417}}
+    - {name: 'company B', type: 'industrial', income: {gross: 2767, net: 901, operating: 4988}}
+    - {name: 'company C', type: 'railroad', income: {gross: 14752, net: 8902, operating: 3403}}
+    - {name: 'company D', type: 'myrailroad', income: {gross: 14752, net: 8902, operating: 3403}}

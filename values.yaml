@@ -1,0 +1,3 @@
+- {name: 'Chesapeake & Ohio', type: 'railroad', income: {gross: 37598, net: 26696, operating: 35417}}
+- {name: 'Chicago Great Western', type: 'railroad', income: {gross: 2767, net: 901, operating: 4988}}
+- {name: 'Northern Pacific', type: 'railroad', income: {gross: 14752, net: 8902, operating: 3403}}

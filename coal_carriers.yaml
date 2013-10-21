@@ -1,0 +1,9 @@
+thresholds:
+    public-utility: 1.75
+    railroad: 2
+    industrial: 3
+businesses:
+    - {name: 'Soft Coalers (1923-1927)', type: 'railroad', income: {operating: 330036, gross: 0, net: 250465}}
+    - {name: 'Soft Coalers (1934-1938)', type: 'railroad', income: {operating: 381364, gross: 0, net: 315053}}
+    - {name: 'Hard Coalers (1923-1927)', type: 'railroad', income: {operating: 401784, gross: 0, net: 289608}}
+    - {name: 'Hard Coalers (1934-1938)', type: 'railroad', income: {operating: 195975, gross: 0, net: -18615}}

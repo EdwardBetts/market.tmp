@@ -13,5 +13,4 @@ if "__main__" == __name__:
 
         sigma = math.sqrt(sum((x - average) ** 2 for x in values) / length)
 
-        print("{0:.2f} +- {1:.2f} ({2:.0f}%)".format(average, sigma,
-                                                   sigma / average * 100))
+        print("{:.2f} +- {:.2f} ({:.0%})".format(average, sigma, sigma / average))
